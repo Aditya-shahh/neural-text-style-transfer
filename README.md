@@ -1,5 +1,5 @@
 # neural-text-style-transfer
-Style Transfer for non-parallel text
+### Style Transfer for non-parallel text
 
 We propose to explore the space of neural natural language generation (NNLG) by transferring writing style. Most of the previous work in this field focuses on controlling content instead of attempting to learn stylistic features. We aim to bridge this gap with an approach based on to neural image style transfer networks, where the strategy often includes a set of layers designated to learn content (i.e. objects in the images and larger structure trends) and another set of layers designated to learn style (i.e. the RGB values for individual pixels). This work is also inspired from related problems such as author disambiguation and neural machine translation. We can use these fields to explore a variety of problem formulations and approaches in NNLG to lead to a more general way of style transfer that diverges from recent work that focuses on manually extracted stylistic features. Our main challenge will be separating stylistic from content-based features.
 
